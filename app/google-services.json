@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "994275080556",
+    "firebase_url": "https://faceshare-48676.firebaseio.com",
+    "project_id": "faceshare-48676",
+    "storage_bucket": "faceshare-48676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994275080556:android:2011aaa6911d0743",
+        "android_client_info": {
+          "package_name": "com.sinchan.faceshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994275080556-ujl7koflev3qu45gcvr3nfn53orkg8hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sinchan.faceshare",
+            "certificate_hash": "08ab529d54da7f82fe50766871ae9d05492f1855"
+          }
+        },
+        {
+          "client_id": "994275080556-mln3petliito1dc1jnvru2qvv3p03tfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Y2yyoQyRi2CnY3Qx7Yycp16LIDqMZiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994275080556-mln3petliito1dc1jnvru2qvv3p03tfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
